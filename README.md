@@ -5,7 +5,7 @@
 </p>
 
 ## 📜 Description:
-Developed a Mask Detection AI System which makes use of an external camera and the detects if a subject is not wearing mask. Also when dettected presence without mask, the system emmits an alert sound to notify.
+Developed a Mask Detection AI System which makes use of an external camera and the detects if a subject is not wearing mask. Also when detected presence without mask, the system emmits an alert sound to notify.
 
 ## 📽 Sample Demo:
 https://user-images.githubusercontent.com/54114888/151290705-fabb9544-bf52-446d-9464-19bb8ef2c463.mp4
