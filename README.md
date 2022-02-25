@@ -7,6 +7,9 @@
 ## 📜 Description:
 Developed a Mask Detection AI System which makes use of an external camera and the detects if a subject is not wearing mask. Also when detected presence without mask, the system emmits an alert sound to notify.
 
+## 🌳 Social-Welfare Usecase:
+The Face Mask Detection System can be used at airports to detect travelers without masks. Face data of travelers can be captured in the system at the entrance. If a traveler is found to be without a face mask, their picture is sent to the airport authorities so that they could take quick action.
+
 ## 📽 Sample Demo:
 https://user-images.githubusercontent.com/54114888/151290705-fabb9544-bf52-446d-9464-19bb8ef2c463.mp4
 
